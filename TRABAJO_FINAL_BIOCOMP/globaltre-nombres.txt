@@ -1,0 +1,12 @@
+((Laurus_nobilis:0.0377907,((Persea_humilis:0,Persea_palustris:0):0.017341,Persea_americana:0.017341)
+:0.0204497):0.210284,((Vicia_cracca:0.0621082,(Vicia_amurensis:0.00699558,
+(Vicia_amoena:0.000730994,Vicia_unijuga:0.000730994):0.00626459):0.0551126):0.185381,
+((Breynia_cernua:0.127071,(Glochidion_harveyanum:0.004914,Glochidion_sumatranum:0.004914):0.122157)
+:0.0790179,((Vantanea_guianensis:0.0449525,(Humiria_balsamifera:0.00689289,Humiria_wurdackii:0.00689289)
+:0.0380596):0.1437,(Myrtus_communis:0.0830153,(Rhodamnia_sessiliflora:0.0459337,
+(Syzygium_cryptophlebium:0.0164671,Syzygium_sayeri:0.0164671):0.0294667):0.0370815):0.105637)
+:0.0174366):0.0414):0.000585318)
+
+
+
+
